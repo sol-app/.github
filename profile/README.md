@@ -24,7 +24,7 @@ This Github organization page for teach & learn how to become from web/web2 to w
 
 ---
 
-<a href="#"><img src="https://avatars.githubusercontent.com/u/124498405?s=200&v=4" /></a>
+<a href="https://github.com/sol-app"><img src="https://avatars.githubusercontent.com/u/124498405?s=200&v=4" /></a>
 <span>This Github organization page for teach & learn how to become from web/web2 to web3</span>
 
 ##
