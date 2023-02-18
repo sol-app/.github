@@ -17,6 +17,10 @@ This Github organization page for teach & learn how to become from web/web2 to w
 - Read blockchaint [here](https://github.com/sol-app/ethersjs/tree/main/read) 
 - Listening events [here](https://github.com/sol-app/ethersjs/tree/main/listen-event) 
 
+### Verify Signature
+- Web3js - [source](https://github.com/mosi-sol/VerifySignature/blob/main/index.html) | [Live](https://mosi-sol.github.io/VerifySignature/) 
+- Ethersjs - [source](https://github.com/mosi-sol/VerifySignature/blob/main/index-ethersjs.html) | [Live](https://mosi-sol.github.io/VerifySignature/index-ethersjs.html) 
+
 ### Crypto live price:
 - Source code [here](https://github.com/sol-app/crypto-price) 
 - Live project [here](https://sol-app.github.io/crypto-price/) 
