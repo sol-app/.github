@@ -29,6 +29,8 @@ This Github organization page for teach & learn how to become from web/web2 to w
 - Source [here](https://github.com/sol-app/Donation) 
 - Live project [here](https://sol-app.github.io/Donation/) 
 
+> all codes experimental and using for free under MIT & OR Gnu-Gpl3 license
+
 ---
 
 <a href="https://github.com/sol-app"><img src="https://avatars.githubusercontent.com/u/124498405?s=200&v=4" /></a>
