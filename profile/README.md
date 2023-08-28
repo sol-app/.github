@@ -1,7 +1,9 @@
 # Web3 in simple
 
-This Github organization page for teach & learn how to become from web/web2 to web3 + my landing pages.\
-👨‍👩‍👧‍👦<i>For: Woman, Life, Freedom, patriotic man</i>
+This Github organization page for teach & learn how to become from web/web2 to web3 + my landing pages.
+|True side of history|
+|---|
+|👨‍👩‍👧‍👦<i>For: Woman, Life, Freedom, patriotic man</i>|
 
 ##
 
